@@ -17,5 +17,28 @@ int main()
 	float perecentReadyPages = ((float) readyPapers / (float) allPapers) * 100;
 	printf("The percentege of ready papers from all papers is =  %.2f \n", perecentReadyPages);
 
+	cout << "\n";
+	float PI = 3.14159265; 
+	printf("Precision specification of %.*f\n", 1, PI);
+	printf("Precision specification of %.*f\n", 2, PI);
+    printf("Precision specification of %.*f\n", 3, PI);
+    printf("Precision specification of %.*f\n", 4, PI);
+ 
+	// String & Chars
+	char name[] = "Abdullah Al-Shehri";
+	char dream[] = "Be Great Software Engineer!";
+
+	printf("Dear %s, How are you?\n\n", name);     
+	printf("You Will Be a ( %s )\n\n", dream);
+
+	char c = 'S';
+	printf("Setting the width of c :%*c \n", 1, c);
+	printf("Setting the width of c :%*c \n", 2, c);
+    printf("Setting the width of c :%*c \n", 3, c);
+    printf("Setting the width of c :%*c \n", 4, c);
+    printf("Setting the width of c :%*c \n", 5, c);
+
+
+
 
 }
