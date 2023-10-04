@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main()
@@ -40,5 +41,8 @@ int main()
 
 
 
-
+	// Setw() Manipulator
+	cout << "Name" << setw(20) << "|" << setw(30) << "Abdullah Bander Al-Sheheri" << "|" << endl;
+	cout << "Name" << setw(20) << "|" << setw(30) << "Mazen Bander Al-Sheheri" << "|" << endl;
+	cout << "Name" << setw(20) << "|" << setw(30) << "Mohammed Bander Al-Sheheri" << "|" << endl;
 }
