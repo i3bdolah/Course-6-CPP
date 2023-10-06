@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoDimensionalArray", "TwoD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoDimensionalArrayHomeWork", "TwoDimensionalArrayHomeWork\TwoDimensionalArrayHomeWork.vcxproj", "{446D32A2-BF71-4759-BA2B-56C26EB640DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectors", "Vectors\Vectors.vcxproj", "{7BA7B602-C700-41AA-9F64-1528C8321898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{446D32A2-BF71-4759-BA2B-56C26EB640DC}.Release|x64.Build.0 = Release|x64
 		{446D32A2-BF71-4759-BA2B-56C26EB640DC}.Release|x86.ActiveCfg = Release|Win32
 		{446D32A2-BF71-4759-BA2B-56C26EB640DC}.Release|x86.Build.0 = Release|Win32
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Debug|x64.ActiveCfg = Debug|x64
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Debug|x64.Build.0 = Debug|x64
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Debug|x86.Build.0 = Debug|Win32
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Release|x64.ActiveCfg = Release|x64
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Release|x64.Build.0 = Release|x64
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Release|x86.ActiveCfg = Release|Win32
+		{7BA7B602-C700-41AA-9F64-1528C8321898}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
